@@ -5,7 +5,7 @@ This is a simple package that helps you in creating audiobooks (in the form of .
 ## The import statement
 Use this import statement to import all the functions of the library:
 ###### from pdftoAudiobook import *
-###### Function import example: _pdftoAudiobook.pdf_to_audiobook(pdfFileName)_
+###### Function use example: _pdftoAudiobook.pdf_to_audiobook(pdfFileName)_
 
 # PDF TO AUDIOBOOK converter functions
 There are two functions in this package:
