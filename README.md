@@ -2,14 +2,14 @@
 
 This is a simple package that helps you in creating audiobooks (in the form of .mp3) from a pdf file.
 
-# The import statement
+## The import statement
 Use this import statement to import all the functions of the library:
-from pdftoAudiobook.pdftoAudiobook import *
+###### from pdftoAudiobook.pdftoAudiobook import *
 
 # PDF TO AUDIOBOOK converter functions
 There are two functions in this package:
-pdf_to_audiobook: *This function parses through the entire pdf document, converts it into speech and creates a single .mp3 file*
-pdf_to_audiobook_per_page: *This function parses through the entire pdf document and creates a one .mp3 file per page*
+###### pdf_to_audiobook: *This function parses through the entire pdf document, converts it into speech and creates a single .mp3 file. This function takes one string argument, the path of the pdf file that is to be converted.*
+###### pdf_to_audiobook_per_page: *This function parses through the entire pdf document and creates a one .mp3 file per page. This function also takes one string argument, the path of the pdf file that is to be converted.*
 
 # Future scopes
 1. Create a function that parses through a text file and converts that into an audiobook
