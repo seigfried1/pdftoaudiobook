@@ -1,4 +1,4 @@
-# Example Package
+# PDF TO AUDIOBOOK CONVERTER
 
 This is a simple package that helps you in creating audiobooks (in the form of .mp3) from a pdf file.
 
