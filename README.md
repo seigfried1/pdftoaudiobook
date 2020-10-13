@@ -20,3 +20,5 @@ There are two functions in this package:
 1. Since gTTS library is used for text-to-speech conversion, it requires internet connection while running the scripts
 2. The pdf file is converted to speech as-is, no modifications are made to the original format. Due to this, improperly
 formatted file may give bad output. However with a standard text format, this will work properly.
+3. Since API is used to convert the text to speech, it takes a long time to convert if the number of pages
+is more
