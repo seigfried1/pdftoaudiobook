@@ -21,3 +21,6 @@ install_requires = [
 	'gTTS>=2.1.1',
 	'PyPDF2>=1.26.0'
 ]
+
+if __name__ == '__main__':
+    setup(**setup_args, install_requires=install_requires)

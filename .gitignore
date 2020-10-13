@@ -1,4 +1,7 @@
 __pycache__/
+build/
+dist/
+pdfToAudioBookConverter.egg-info/
 # Distribution / packaging
 .Python
 build/
