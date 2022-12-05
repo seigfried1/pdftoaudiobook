@@ -14,6 +14,7 @@ There are two functions in this package:
 
 # Future scopes
 1. Create a function that parses through a text file and converts that into an audiobook
+
 2. Provide another alternatives for converting text-to-speech. Currently, it uses gTTS library for this purpose.
 
 # Limitations
